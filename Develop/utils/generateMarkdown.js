@@ -59,6 +59,7 @@ ${data.description}
 * [Usage](#usage)
 * [Test](#test)
 * [Installation](#installation)
+* [Questions](#questions)
 
 ## Contribution
 
