@@ -42,7 +42,8 @@
 
 ## Installation 
 
-* 
+* In command line enter npm i 
+* Then run node index.js
 
 ## Dependencies : 
 
@@ -65,7 +66,7 @@
 
 * Node.js
 * Javascript
-* 
+* Inquirer package
 
 ## Repo 
  * (https://github.com/Jump89/make-my-readme-now)

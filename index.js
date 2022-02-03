@@ -29,7 +29,7 @@ function writeToFile(fileName, data) {
 async function init() {
     try {
         inquirer.prompt(questions)
-            .then(answers => writeToFile("README.md", generateMarkdown(answers)))
+            .then(answers => writeToFile("generateREADME.md", generateMarkdown(answers)))
         // // Prompt Inquirer questions
         // const userResponses = await inquirer.prompt(questions);
         // console.log("Your responses: ", userResponses);
